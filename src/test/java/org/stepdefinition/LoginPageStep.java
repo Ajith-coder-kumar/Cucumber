@@ -22,6 +22,7 @@ public class LoginPageStep {
 		driver.get("https://adactinhotelapp.com/");
 		driver.manage().window().maximize();
 		driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
+		driver.
 	}
 
 	@When("User Login with {string} and {string}")
