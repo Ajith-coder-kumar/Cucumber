@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="10" time="122.587957">
+    <testcase classname="Validating Adactin Application" name="Validating Hotel booking" time="12.718945">
+        <system-out><![CDATA[Given Launcing Browser......................................................passed
+When User Login with "SuguAravind" and "sugu@3005"..........................passed
+And User Searching Hotel "Sydney","Hotel Sunshine","Super Deluxe","1 - One","16/11/2021","17/11/2021","2 - Two"and"0 - None".passed
+And User Selecting Hotel....................................................passed
+And User Booking Hotel "Ajith","kumar","Anna Nagar1","1234567890123456","Master Card","January","2022" and "123".passed
+And Order Number Generated..................................................passed
+Then User Successfully Booked Ticket........................................passed
+]]></system-out>
+    </testcase>
+    <testcase classname="Validating Adactin Application" name="Validating Hotel booking 2" time="11.755805">
+        <system-out><![CDATA[Given Launcing Browser......................................................passed
+When User Login with "SuguAravind" and "sugu@3005"..........................passed
+And User Searching Hotel "Sydney","Hotel Sunshine","Super Deluxe","1 - One","16/11/2021","17/11/2021","2 - Two"and"0 - None".passed
+And User Selecting Hotel....................................................passed
+And User Booking Hotel "Ajith","kumar","Anna Nagar2","1234567890123456","Master Card","January","2022" and "123".passed
+And Order Number Generated..................................................passed
+Then User Successfully Booked Ticket........................................passed
+]]></system-out>
+    </testcase>
+    <testcase classname="Validating Adactin Application" name="Validating Hotel booking 3" time="11.967685">
+        <system-out><![CDATA[Given Launcing Browser......................................................passed
+When User Login with "SuguAravind" and "sugu@3005"..........................passed
+And User Searching Hotel "Sydney","Hotel Sunshine","Super Deluxe","1 - One","16/11/2021","17/11/2021","2 - Two"and"0 - None".passed
+And User Selecting Hotel....................................................passed
+And User Booking Hotel "Ajith","kumar","Anna Nagar3","1234567890123456","Master Card","January","2022" and "123".passed
+And Order Number Generated..................................................passed
+Then User Successfully Booked Ticket........................................passed
+]]></system-out>
+    </testcase>
+    <testcase classname="Validating Adactin Application" name="Validating Hotel booking 4" time="11.562973">
+        <system-out><![CDATA[Given Launcing Browser......................................................passed
+When User Login with "SuguAravind" and "sugu@3005"..........................passed
+And User Searching Hotel "Sydney","Hotel Sunshine","Super Deluxe","1 - One","16/11/2021","17/11/2021","2 - Two"and"0 - None".passed
+And User Selecting Hotel....................................................passed
+And User Booking Hotel "Ajith","kumar","Anna Nagar4","1234567890123456","Master Card","January","2022" and "123".passed
+And Order Number Generated..................................................passed
+Then User Successfully Booked Ticket........................................passed
+]]></system-out>
+    </testcase>
+    <testcase classname="Validating Adactin Application" name="Validating Hotel booking 5" time="11.645499">
+        <system-out><![CDATA[Given Launcing Browser......................................................passed
+When User Login with "SuguAravind" and "sugu@3005"..........................passed
+And User Searching Hotel "Sydney","Hotel Sunshine","Super Deluxe","1 - One","16/11/2021","17/11/2021","2 - Two"and"0 - None".passed
+And User Selecting Hotel....................................................passed
+And User Booking Hotel "Ajith","kumar","Anna Nagar5","1234567890123456","Master Card","January","2022" and "123".passed
+And Order Number Generated..................................................passed
+Then User Successfully Booked Ticket........................................passed
+]]></system-out>
+    </testcase>
+    <testcase classname="Validating Adactin Application" name="Validating Hotel booking 6" time="11.814906">
+        <system-out><![CDATA[Given Launcing Browser......................................................passed
+When User Login with "SuguAravind" and "sugu@3005"..........................passed
+And User Searching Hotel "Sydney","Hotel Sunshine","Super Deluxe","1 - One","16/11/2021","17/11/2021","2 - Two"and"0 - None".passed
+And User Selecting Hotel....................................................passed
+And User Booking Hotel "Ajith","kumar","Anna Nagar6","1234567890123456","Master Card","January","2022" and "123".passed
+And Order Number Generated..................................................passed
+Then User Successfully Booked Ticket........................................passed
+]]></system-out>
+    </testcase>
+    <testcase classname="Validating Adactin Application" name="Validating Hotel booking 7" time="11.973826">
+        <system-out><![CDATA[Given Launcing Browser......................................................passed
+When User Login with "SuguAravind" and "sugu@3005"..........................passed
+And User Searching Hotel "Sydney","Hotel Sunshine","Super Deluxe","1 - One","16/11/2021","17/11/2021","2 - Two"and"0 - None".passed
+And User Selecting Hotel....................................................passed
+And User Booking Hotel "Ajith","kumar","Anna Nagar7","1234567890123456","Master Card","January","2022" and "123".passed
+And Order Number Generated..................................................passed
+Then User Successfully Booked Ticket........................................passed
+]]></system-out>
+    </testcase>
+    <testcase classname="Validating Adactin Application" name="Validating Hotel booking 8" time="12.611969">
+        <system-out><![CDATA[Given Launcing Browser......................................................passed
+When User Login with "SuguAravind" and "sugu@3005"..........................passed
+And User Searching Hotel "Sydney","Hotel Sunshine","Super Deluxe","1 - One","16/11/2021","17/11/2021","2 - Two"and"0 - None".passed
+And User Selecting Hotel....................................................passed
+And User Booking Hotel "Ajith","kumar","Anna Nagar8","1234567890123456","Master Card","January","2022" and "123".passed
+And Order Number Generated..................................................passed
+Then User Successfully Booked Ticket........................................passed
+]]></system-out>
+    </testcase>
+    <testcase classname="Validating Adactin Application" name="Validating Hotel booking 9" time="12.899802">
+        <system-out><![CDATA[Given Launcing Browser......................................................passed
+When User Login with "SuguAravind" and "sugu@3005"..........................passed
+And User Searching Hotel "Sydney","Hotel Sunshine","Super Deluxe","1 - One","16/11/2021","17/11/2021","2 - Two"and"0 - None".passed
+And User Selecting Hotel....................................................passed
+And User Booking Hotel "Ajith","kumar","Anna Nagar9","1234567890123456","Master Card","January","2022" and "123".passed
+And Order Number Generated..................................................passed
+Then User Successfully Booked Ticket........................................passed
+]]></system-out>
+    </testcase>
+    <testcase classname="Validating Adactin Application" name="Validating Hotel booking 10" time="13.636547">
+        <system-out><![CDATA[Given Launcing Browser......................................................passed
+When User Login with "SuguAravind" and "sugu@3005"..........................passed
+And User Searching Hotel "Sydney","Hotel Sunshine","Super Deluxe","1 - One","16/11/2021","17/11/2021","2 - Two"and"0 - None".passed
+And User Selecting Hotel....................................................passed
+And User Booking Hotel "Ajith","kumar","Anna Nagar10","1234567890123456","Master Card","January","2022" and "123".passed
+And Order Number Generated..................................................passed
+Then User Successfully Booked Ticket........................................passed
+]]></system-out>
+    </testcase>
+</testsuite>
